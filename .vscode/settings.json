@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "so3_math.h": "c",
+        "common_lib.h": "c",
+        "laserMapping.cpp": "cpp",
+        "preprocess.h": "c",
+        "preprocess.cpp": "cpp"
+    }
+}
