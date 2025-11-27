@@ -1,0 +1,12 @@
+build/
+devel/
+*.bag
+*.pcd
+*.csv
+*.txt
+*.log
+*.o
+*.a
+*.so
+__pycache__/
+*.pyc
